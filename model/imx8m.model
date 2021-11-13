@@ -1,0 +1,38 @@
+type: model
+authority-id: YKFc1zJo6Oz7QDIRDDdm2Wxuahgq02TI
+series: 16
+brand-id: YKFc1zJo6Oz7QDIRDDdm2Wxuahgq02TI
+model: imx8m
+architecture: arm64
+base: core20
+grade: dangerous
+snaps:
+  -
+    name: imx8mm-evk
+    type: gadget
+  -
+    name: imx8kernel
+    type: kernel
+  -
+    default-channel: latest/stable
+    id: DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q
+    name: core20
+    type: base
+  -
+    default-channel: latest/stable
+    id: PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4
+    name: snapd
+    type: snapd
+timestamp: 2021-10-28T18:56:35+00:00
+sign-key-sha3-384: 2pKQN4Wn6fkFVsil1dnSM8vMiWRvFCMscfX6k4ffeWvlIH1dWVtXraIJavoMXSN0
+
+AcLBcwQAAQoAHRYhBJdqwLo4Wxv6tr0/SMdJVMMvbrq2BQJhe+T/AAoJEMdJVMMvbrq2TQYP/2yy
+vQsYpINNzPYTiQfFv+wkjz+7ze7Qem1IPlToSQK12H7q5A44IPS5saPHnBpBK4ZnW7yZosqjR/h5
+kdNPv6F2NKgITVzOI10ikNQY+MEh4CztJgBS4WQEneksJBH1+pF/6rTT/ZH00kcxYCW45sN71qCZ
+dc0iMh1oOvgid2XSna5GVAG6qnkUUTjcB+fB8RIWTrf7DlsOT1qEnMwXowp+65xSXOQuIm2AESNq
+FKesHZC8j24mPUZnNQB/uNwuzuSFTbHs4UAnJ1SsBafcbMs9XanpnOwfFAcUR92sap+hsvdgyZ/Q
+/4Qo8DhjsVNJcZPATX0QuciidgRzuLLQtel5O1aMHPBeVRDuynrK8GcSs+bCUCJGHsoNJLn1zKue
+uqECidc2nrX8/OSpQYeR/3FnqSPgdUOtziYeeTcXhJoA/A+9el40APfYISycvKXhuIyEGnruRfVo
+GqtVwsASrqxwZOmcykmb9ORtQML5poxLrQQnIvYg2spcNGAdOatYgu/B3y1kNQl9L6Rrm3nNmn56
+DVBSYie001oEIdm4ZaUWMr+6EJf16HJtLMwJhy8M41trphkqG3uEsTY9wxQcnm5Cc5gDttroYPX/
+69EXMr+H++XPLb42vjFyGhru1f4RlF6qkeO97bD47PoLvcZyiZAa+Rt4Y8V1cG5mOVJDpj7N

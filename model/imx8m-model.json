@@ -1,0 +1,33 @@
+{
+  "type": "model",
+  "authority-id": "YKFc1zJo6Oz7QDIRDDdm2Wxuahgq02TI",
+  "brand-id": "YKFc1zJo6Oz7QDIRDDdm2Wxuahgq02TI",
+  "series": "16",
+  "base": "core20",
+  "model": "imx8m",
+  "architecture": "arm64",
+  "grade": "dangerous",
+  "timestamp": "2021-10-28T18:56:35+00:00",
+  "snaps": [
+      {
+          "name": "imx8mm-evk",
+          "type": "gadget"
+      },
+      {
+          "name": "imx8kernel",
+          "type": "kernel"
+      },
+      {
+          "name": "core20",
+          "type": "base",
+          "id": "DLqre5XGLbDqg9jPtiAhRRjDuPVa5X1q",
+          "default-channel": "latest/stable"
+      },
+      {
+          "name": "snapd",
+          "type": "snapd",
+          "id": "PMrrV4ml8uWuEUDBT8dSGnKUYbevVhc4",
+          "default-channel": "latest/stable"
+      }
+  ]
+}
